@@ -1,3 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 node_modules
+/public/stylesheets/scss/.sass-cache/
+public/stylesheets/css/
+public/stylesheets/scss/.sass-cache/
+public/stylesheets/scss/common.css.map
